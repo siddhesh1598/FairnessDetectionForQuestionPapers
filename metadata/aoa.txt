@@ -1,0 +1,17 @@
+1a,Derive the complexity of quick sort for best c...,5,
+1b,What is asymptotic analysis? Define BigO. Omeg...,5
+1c,Write an algorithm to find all pairs shortest ...,5
+1d,Write a note on "Optimal Storage on Tapes".,5
+1e,Define master theorem.,5
+2a,Write an algorithm for finding minimum and max...,10
+2b,Write Kruskal's algorithm.,10
+3a,Solve fractional knapsack problem for the foll...,10
+3b,Write an algorithm for Knuth Morris Pratt (KMP...,10
+4a,Write an algorithm to solve N Queens problem. ...,10
+4b,Write an algorithm to solve sum of subset prob...,10
+5a,Prove that Vertex Cover problem is NP Complete.,10
+5b,Find the longest common subsequence,10
+6a,Assembly Line Scheduling,10
+6b,Job Sequencing with Deadlines,10
+6c15 Puzzle Problem,10
+6d,P. NP and NPC Classes,10
